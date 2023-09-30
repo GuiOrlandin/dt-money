@@ -1,9 +1,4 @@
 </div>
-
-## ▶ Preview
-
-[![Deploy with Vercel](https://vercel.com/button)](https://dt-money-guiorlandin.vercel.app/)
-
 ## 📃 About
 
 DT Money, trata-se de um projeto que tem como objetivo o gerenciamento de finanças do usuário, tendo o controle do capital de entrada e saida.
